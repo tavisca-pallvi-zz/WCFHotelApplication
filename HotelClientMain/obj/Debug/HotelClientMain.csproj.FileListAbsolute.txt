@@ -1,0 +1,13 @@
+C:\Users\pgoel\source\repos\WcfServiceLibrary1\HotelClientMain\bin\Debug\HotelClientMain.exe.config
+C:\Users\pgoel\source\repos\WcfServiceLibrary1\HotelClientMain\bin\Debug\HotelClientMain.exe
+C:\Users\pgoel\source\repos\WcfServiceLibrary1\HotelClientMain\bin\Debug\HotelClientMain.pdb
+C:\Users\pgoel\source\repos\WcfServiceLibrary1\HotelClientMain\obj\Debug\HotelClientMain.csprojAssemblyReference.cache
+C:\Users\pgoel\source\repos\WcfServiceLibrary1\HotelClientMain\obj\Debug\HotelClientMain.csproj.CoreCompileInputs.cache
+C:\Users\pgoel\source\repos\WcfServiceLibrary1\HotelClientMain\obj\Debug\HotelClientMain.exe
+C:\Users\pgoel\source\repos\WcfServiceLibrary1\HotelClientMain\obj\Debug\HotelClientMain.pdb
+C:\Users\pgoel\source\repos\WcfServiceLibrary1\HotelClientMain\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\pgoel\source\repos\WcfServiceLibrary1\HotelClientMain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pgoel\source\repos\WcfServiceLibrary1\HotelClientMain\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\pgoel\source\repos\WcfServiceLibrary1\HotelClientMain\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\pgoel\source\repos\WcfServiceLibrary1\HotelClientMain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pgoel\source\repos\WcfServiceLibrary1\HotelClientMain\obj\Debug\HotelClientMain.csproj.CopyComplete
