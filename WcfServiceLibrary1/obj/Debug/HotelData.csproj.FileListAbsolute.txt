@@ -1,0 +1,9 @@
+C:\Users\pgoel\source\repos\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\pgoel\source\repos\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\pgoel\source\repos\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\pgoel\source\repos\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pgoel\source\repos\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pgoel\source\repos\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\HotelData.csproj.CoreCompileInputs.cache
+C:\Users\pgoel\source\repos\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\HotelData.csproj.CopyComplete
+C:\Users\pgoel\source\repos\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\pgoel\source\repos\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb

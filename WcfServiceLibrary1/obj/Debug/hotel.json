@@ -1,0 +1,16 @@
+[
+    { 
+    "Id" : "1",
+    "Name" : "Radison Blu",
+    "Location" : "7, Wardha Road, Chhatrapati Square, Nagpur, Maharashtra 440015",
+    "HotelRating" : 4,
+  
+},
+{ 
+    "Id" : "2",
+    "Name" : "Hyatt Regency",
+    "Location" : "Weikfield IT Park, Pune Nagar Road, Pune, Maharashtra 411014",
+    "HotelRating" : 5,
+    
+}
+]
